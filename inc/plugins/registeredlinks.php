@@ -5,7 +5,7 @@ https://huseyinkorbalta.com
 Copyright 2016  Huseyinkorbalta.Com
 */
 if(!defined('IN_MYBB'))
-	die('Bu dosyaya doğrudan erişimezsiniz!');
+	die('Bu dosyaya doğrudan erişemezsiniz!');
 	
 $plugins->add_hook("parse_message", "registeredlinks_process");
 

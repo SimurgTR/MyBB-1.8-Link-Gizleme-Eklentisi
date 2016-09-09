@@ -13,10 +13,10 @@ function registeredlinks_info()
 {
 
 	return array(
-		"name"		=> "Ziyaretçilere Link Gizleme",
-		"description"		=> "Konudaki linklerin ziyaretçilere gizlemesini sağlar.",
+		"name"		=> "İndirme Linklerini Gizleme Eklentisi",
+		"description"		=> "Forum konularınızda ki iç ve dış site bağlantılarınızı ziyaretçilerinize gizlemenizi sağlar ve bu linkler yerine bir uyarı mesajı gösterir.",
 		"website"		=> "https://huseyinkorbalta.com",
-		"author"		=> "Machine",
+		"author"		=> "Hüseyin Körbalta",
 		"authorsite"		=> "https://huseyinkorbalta.com",
 		"version"		=> "1.0",
 		"guid" 			=> "7725ba33bb01a4223b01fe0ee022d650",
@@ -38,7 +38,6 @@ function registeredlinks_uninstall()
 {
 
 }
-
 
 
 

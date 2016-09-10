@@ -25,7 +25,7 @@ function registeredlinks_info()
 }
 
 
-function registeredlinks_install()
+function registeredlinks_activate()
 {
 
 	
@@ -34,7 +34,7 @@ function registeredlinks_install()
 
 
 
-function registeredlinks_uninstall()
+function registeredlinks_deactivate()
 {
 
 }

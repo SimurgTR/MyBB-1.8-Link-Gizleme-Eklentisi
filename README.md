@@ -17,7 +17,7 @@ Website: https://huseyinkorbalta.com
       v1.1 Güncellemesi
       
   * Eklenti için PluginLibrary desteği eklendi.
-  * Eklentiyi diğer eklentilerden ayırtmak için icon ve renk eklendi.
+  * Eklentiyi diğer eklentilerden ayrı göstermek/belirtmek için eklenti iconu ve başlık rengi eklendi.
   * Eklenti açıp/kapatmak için admin paneline basit ayar eklendi.
   * Türkçe dil dosyalarında ki imla hataları giderildi.
 
